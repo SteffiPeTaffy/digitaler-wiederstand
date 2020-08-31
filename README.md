@@ -34,3 +34,7 @@ Example: Biden campaign buying 'keep america great' website
 
 New Coverage:
 * https://www.the-sun.com/news/1394399/biden-campaign-buys-keep-america-great-website-troll-trump-failures/
+
+
+### App spamming
+* https://www.vice.com/en_us/article/g5pg4y/k-pop-fans-took-down-a-police-snitching-app
