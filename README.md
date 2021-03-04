@@ -38,3 +38,7 @@ New Coverage:
 
 ### App spamming
 * https://www.vice.com/en_us/article/g5pg4y/k-pop-fans-took-down-a-police-snitching-app
+
+
+### Censorship due to enforcing copyright violation
+Police playing copyright protected music to stop people from recording their police encounters and posting/live streaming them on social media
